@@ -1,0 +1,1 @@
+spicetify backup apply enable-devtools
